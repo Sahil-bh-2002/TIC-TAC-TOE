@@ -1,4 +1,4 @@
-console.log("TIC TAC TOE");
+
 
 const boxes = document.querySelectorAll(".box");
 const message = document.querySelector(".message");
